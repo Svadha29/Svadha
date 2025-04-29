@@ -2,7 +2,6 @@
 
 Welcome to my personal portfolio! This repository contains the code for my **online portfolio**, where I showcase my skills, projects, and work experience. It's built with **HTML, CSS, JavaScript**, and hosted on **GitHub Pages**.
 
-<img src="https://github.com/Svadha29/Svadha/blob/4381dd3f3728c0dab20ff6dc30ceb1b8353b80d2/assets/image%20copy.png" alt="Alt Text" width="300"/>
 
 ##👩‍💻  About Me
 
