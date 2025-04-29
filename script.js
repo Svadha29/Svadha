@@ -58,7 +58,7 @@ navigationLinks.forEach(link => {
 // Resume open new tab
 const resumeButton = document.getElementById('resume-button');
 resumeButton.addEventListener('click', function() {
-  window.open('SVADHA (1) (1).pdf', '_blank');
+  window.open('SVADHA_RESUME.pdf', '_blank');
 });
 
 // Contact form validation
